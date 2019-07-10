@@ -1,0 +1,11 @@
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\Oven\bin\Debug\netcoreapp2.2\Oven.deps.json
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\Oven\bin\Debug\netcoreapp2.2\Oven.runtimeconfig.json
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\Oven\bin\Debug\netcoreapp2.2\Oven.runtimeconfig.dev.json
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\Oven\bin\Debug\netcoreapp2.2\Oven.dll
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\Oven\bin\Debug\netcoreapp2.2\Oven.pdb
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\Oven\obj\Debug\netcoreapp2.2\Oven.csprojAssemblyReference.cache
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\Oven\obj\Debug\netcoreapp2.2\Oven.csproj.CoreCompileInputs.cache
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\Oven\obj\Debug\netcoreapp2.2\Oven.AssemblyInfoInputs.cache
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\Oven\obj\Debug\netcoreapp2.2\Oven.AssemblyInfo.cs
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\Oven\obj\Debug\netcoreapp2.2\Oven.dll
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\Oven\obj\Debug\netcoreapp2.2\Oven.pdb

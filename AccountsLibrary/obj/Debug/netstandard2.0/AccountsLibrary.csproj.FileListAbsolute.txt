@@ -1,0 +1,8 @@
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountsLibrary\obj\Debug\netstandard2.0\AccountsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountsLibrary\obj\Debug\netstandard2.0\AccountsLibrary.AssemblyInfoInputs.cache
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountsLibrary\obj\Debug\netstandard2.0\AccountsLibrary.AssemblyInfo.cs
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountsLibrary\bin\Debug\netstandard2.0\AccountsLibrary.deps.json
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountsLibrary\bin\Debug\netstandard2.0\AccountsLibrary.dll
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountsLibrary\bin\Debug\netstandard2.0\AccountsLibrary.pdb
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountsLibrary\obj\Debug\netstandard2.0\AccountsLibrary.dll
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountsLibrary\obj\Debug\netstandard2.0\AccountsLibrary.pdb

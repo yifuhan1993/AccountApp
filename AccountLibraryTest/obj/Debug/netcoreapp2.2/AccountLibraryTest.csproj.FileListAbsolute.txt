@@ -1,0 +1,17 @@
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\bin\Debug\netcoreapp2.2\AccountLibraryTest.deps.json
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\bin\Debug\netcoreapp2.2\AccountLibraryTest.runtimeconfig.json
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\bin\Debug\netcoreapp2.2\AccountLibraryTest.runtimeconfig.dev.json
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\bin\Debug\netcoreapp2.2\AccountLibraryTest.dll
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\bin\Debug\netcoreapp2.2\AccountLibraryTest.pdb
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\bin\Debug\netcoreapp2.2\AccountsLibrary.dll
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\bin\Debug\netcoreapp2.2\AccountsLibrary.pdb
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\obj\Debug\netcoreapp2.2\AccountLibraryTest.csprojAssemblyReference.cache
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\obj\Debug\netcoreapp2.2\AccountLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\obj\Debug\netcoreapp2.2\AccountLibraryTest.AssemblyInfoInputs.cache
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\obj\Debug\netcoreapp2.2\AccountLibraryTest.AssemblyInfo.cs
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\obj\Debug\netcoreapp2.2\AccountLibraryTest.csproj.CopyComplete
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\obj\Debug\netcoreapp2.2\AccountLibraryTest.dll
+C:\Users\yhan14\Documents\Visual Studio 2017\Projects\AccountApp\AccountLibraryTest\obj\Debug\netcoreapp2.2\AccountLibraryTest.pdb
